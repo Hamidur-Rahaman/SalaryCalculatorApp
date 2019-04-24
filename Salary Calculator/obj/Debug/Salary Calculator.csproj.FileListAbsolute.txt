@@ -1,0 +1,12 @@
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csprojResolveAssemblyReference.cache
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.SalaryCalculatorUi.resources
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csproj.GenerateResource.Cache
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+c:\users\hm durjoy\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb
+E:\Educational\BITM\myWork\OOP\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+E:\Educational\BITM\myWork\OOP\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+E:\Educational\BITM\myWork\OOP\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb
